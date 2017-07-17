@@ -1,0 +1,24 @@
+Bundle-Name: Elastic Connection Sample
+Bundle-SymbolicName: com.liferay.blade.samples.elastic.connection
+Bundle-Version: 1.0.0
+Import-Package:\
+	!com.fasterxml.jackson.*,\
+	\
+	!com.github.mustachejava.*,\
+	\
+	!com.google.protobuf.*,\
+	\
+	!com.sun.jna.*,\
+	\
+	!org.apache.tomcat.jni.*,\
+	\
+	!org.bouncycastle.*,\
+	\
+	!org.eclipse.jetty.npn.*,\
+	\
+	!org.jboss.logging.*,\
+	!org.jboss.marshalling.*,\
+	\
+	!sun.security.*,\
+	\
+	*
